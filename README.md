@@ -11,10 +11,11 @@
 
 <body>
     <header>
-        <h1>000?000</h1>
-        <h2>000?000</h2>
+        <h1>Bem Vindo</h1>
+        <h2>Aqui é um site feito para estudos, no caso, estudos da minha escola.</h2>
         <h2>000?000</h2>
     </header>
 </body>
+
 
 </html>
